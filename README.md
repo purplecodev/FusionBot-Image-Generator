@@ -25,7 +25,7 @@ FusionBot Image Generator — это бот для Telegram, который пр
    ```bash
    pip install -r requirements.txt
    ```
-3. Настройте переменные окружения для API FusionBrain и Telegram Token.
+3. Настройте переменные окружения для API FusionBrain и Telegram Token в файле `config.py` (API FusionBrain - https://fusionbrain.ai/keys/).
 4. Запустите бота:
    ```bash
    python bot.py
