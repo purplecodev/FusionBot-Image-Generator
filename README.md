@@ -19,7 +19,7 @@ FusionBot Image Generator — это бот для Telegram, который пр
 ## Установка и настройка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/purplecodev/fusionbot-image-gen.git
+   git clone https://github.com/purplecodev/FusionBot-Image-Generator.git
    ```
 2. Установите зависимости:
    ```bash
